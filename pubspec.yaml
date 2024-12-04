@@ -48,9 +48,9 @@ dev_dependencies:
   flutter_lints: ^4.0.0
 
 flutter:
-  assets: 
-    - lib/img/logoLM.jpg
-    - lib/img/flechaLibromayor.png
+  assets:
+    - lib/img/logo.png
+    - lib/img/flecha.png
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
